@@ -1,6 +1,6 @@
 # Video-Idea: Orthogonal Infection / Bootstrap Percolation
 
-A Manim animation project for the classic ``infection spreads on an \(n \times n\) grid if a cell has >=2 infected orthogonal neighbors'' problem (2-neighbour bootstrap percolation).
+A Manim animation project for the classic "infection spreads on an \(n \times n\) grid if a cell has >=2 infected orthogonal neighbors" problem (2-neighbour bootstrap percolation).
 
 - **Code:** `infection_video.py`
 - **Current render:** `FullVideo.mp4`
