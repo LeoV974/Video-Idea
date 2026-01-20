@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Manim output
+media/
+videos/
+partial_movie_files/
+
+# OS junk
+.DS_Store
+Thumbs.db
